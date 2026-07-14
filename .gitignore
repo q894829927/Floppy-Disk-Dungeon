@@ -1,0 +1,5 @@
+dist/*.obj
+dist/*.pdb
+dist/*.ilk
+**/floppy.sav
+dist/preview*.png
