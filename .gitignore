@@ -3,3 +3,7 @@ dist/*.pdb
 dist/*.ilk
 **/floppy.sav
 dist/preview*.png
+android/build/
+android/debug.keystore
+dist/*.idsig
+
